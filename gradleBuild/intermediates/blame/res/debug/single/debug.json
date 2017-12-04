@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment.xml.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_stylize.xml.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/devansh/tensorflow-for-poets-2-master/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/devansh/tensorflow-for-poets-2-master/android/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

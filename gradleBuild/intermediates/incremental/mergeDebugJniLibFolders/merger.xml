@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/devansh/tensorflow-for-poets-2-master/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/devansh/tensorflow-for-poets-2-master/android/build-types/debug/jniLibs"/></dataSet></merger>
