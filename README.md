@@ -3,6 +3,7 @@
 ### Humans, Animals and Flowers detection on Android using Machine Learning.
 [![](https://developer.android.com/images/brand/Android_Robot_100.png)](https://www.android.com/) [![](https://www.tensorflow.org/images/apple-touch-icon-180x180.png)](https://www.tensorflow.org/)
 
+[Made with the help of Google CodeLabs](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/index.html?index=..%2F..%2Findex#0)
 
 We will be using **transfer learning**, which means we are starting with a model that has been already trained on another problem. We will then be retraining it on a similar problem. Deep learning from scratch can take days, but transfer learning can be done in short order.
 
@@ -10,7 +11,7 @@ We are going to use a model trained on the ![ImageNet](http://image-net.org/) La
 
 The graph below shows the first-choice-accuracies of these configurations (y-axis), vs the number of calculations required (x-axis), and the size of the model (circle area).
 
-
+![graph](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/img/70170cbb89d318b1.png)
 
 16 points are shown for mobilenet. For each of the 4 model sizes (circle area in the figure) there is one point for each image resolution setting. The 128px image size models are represented by the lower-left point in each set, while the 224px models are in the upper right.
 
