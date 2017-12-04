@@ -1,0 +1,10 @@
+monkey
+dandelion
+tulips
+roses
+cats
+sunflowers
+female
+daisy
+male
+dogs
